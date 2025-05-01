@@ -1,6 +1,6 @@
 # Machine Learning Learning Progress Tracker
 
-This repository contains my personal progress and code implementations for various machine learning algorithms and techniques as I learn them. Each new concept or algorithm I explore will be documented and implemented here.
+This repository contains my personal progress and code implementations for various machine learning algorithms and techniques as I learn them. Each new concept or algorithm I explore will be documented and implemented here...
 
 ## Overview
 
