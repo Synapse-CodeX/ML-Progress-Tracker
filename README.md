@@ -13,6 +13,7 @@ As I progress through my machine learning journey, I will be adding code impleme
 - Pandas
 - Matplotlib
 - Scikit-Learn
+- Seaborn 
 - Tensorflow
 - Keras
 
