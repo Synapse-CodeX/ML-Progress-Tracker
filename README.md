@@ -4,7 +4,7 @@ This repository contains my personal progress and code implementations for vario
 
 ## Overview
 
-As I progress through my machine learning journey, I will be adding code implementations for various topics and algorithms, such as regression, classification, clustering, and more. The repository will serve as a log of my learning and a reference for future projects :)
+As I progress through my machine learning journey, I will be adding code implementations for various topics and algorithms, such as regression, classification, clustering, and more. The repository will serve as a log of my learning and a reference for future projects
 
 ## Technologies Used here
 
